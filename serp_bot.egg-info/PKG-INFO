@@ -1,0 +1,13 @@
+Metadata-Version: 1.1
+Name: serp-bot
+Version: 0.0.1
+Summary: Search Engine Results Page Bot
+Home-page: https://github.com/supratikchatterjee16/workbench
+Author: Supratik Chatterjee
+Author-email: chatterjee.supratik@tcs.com
+License: UNKNOWN
+Description: UNKNOWN
+Keywords: python serp bot library
+Platform: UNKNOWN
+Classifier: Programming Language :: Python :: 3
+Classifier: Operating System :: OS Independent
