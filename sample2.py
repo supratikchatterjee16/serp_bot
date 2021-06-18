@@ -1,4 +1,4 @@
-from serp_engines import SERPBot, RequestDispatcher
+from serp_bot import SERPBot, RequestDispatcher
 
 bot = SERPBot()
 dispatcher = RequestDispatcher()

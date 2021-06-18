@@ -1,3 +1,5 @@
+README.md
+setup.cfg
 setup.py
 serp_bot/__init__.py
 serp_bot.egg-info/PKG-INFO
